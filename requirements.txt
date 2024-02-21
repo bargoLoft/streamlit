@@ -3,3 +3,4 @@ pandas
 finance-datareader
 matplotlib
 beautifulsoup4
+plotly
