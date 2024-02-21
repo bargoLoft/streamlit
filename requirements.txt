@@ -1,4 +1,4 @@
 streamlit
 pandas
-FinanceDataReader==0.9.50
+finance-datareader==0.9.50
 matplotlib.pyplot==3.5.3
