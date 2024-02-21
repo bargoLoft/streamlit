@@ -2,3 +2,4 @@ streamlit
 pandas
 finance-datareader
 matplotlib
+beautifulsoup4
